@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "310354144853",
+    "firebase_url": "https://erporate-260fa.firebaseio.com",
+    "project_id": "erporate-260fa",
+    "storage_bucket": "erporate-260fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310354144853:android:377dc5a582007002786edc",
+        "android_client_info": {
+          "package_name": "aim.helmi.bootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310354144853-5c8k462f9hej9n5tklbm8ccg5jgp2j99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChV6_BnZjD9KnqElJ5_xdQ2SpohTQvbwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310354144853-5c8k462f9hej9n5tklbm8ccg5jgp2j99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
